@@ -17,7 +17,7 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
-			<Item Name="libMPSSE.dll" Type="Document" URL="../../libMPSSE-SPI-LabVIEW-master/libMPSSE.dll"/>
+			<Item Name="libMPSSE.dll" Type="Document" URL="//Mac/Home/Desktop/libMPSSE-SPI-LabVIEW-master/libMPSSE.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
